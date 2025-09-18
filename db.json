@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "id": "9cd0",
+      "name": "Laptop",
+      "price": "74000",
+      "stock": "1",
+      "category": "Electronics"
+    },
+    {
+      "id": "7714",
+      "name": "Shoes",
+      "price": "3000",
+      "stock": "25",
+      "category": "Fashion"
+    }
+  ],
+  "sales": [
+    {
+      "month": "Jan",
+      "value": 4000,
+      "id": "0204"
+    },
+    {
+      "month": "Feb",
+      "value": 6000,
+      "id": "570b"
+    },
+    {
+      "month": "Mar",
+      "value": 8000,
+      "id": "a489"
+    }
+  ]
+}
