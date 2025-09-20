@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
